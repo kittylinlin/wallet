@@ -1,0 +1,5 @@
+djangorest/api/migrations
+
+djangorest/db.sqlite3
+
+.DS_Store
